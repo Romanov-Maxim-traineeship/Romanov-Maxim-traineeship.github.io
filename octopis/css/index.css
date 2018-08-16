@@ -181,6 +181,7 @@ body {
 @media (max-width: 1000px) {
     .octopus-head {
         width: 228px;
+        height: 610px;
 
     }
     .octopus-head-eye {
