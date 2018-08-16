@@ -177,3 +177,14 @@ body {
         width: 324px;
     }
 }
+
+@media (max-width: 1000px) {
+    .octopus-head {
+        width: 228px;
+
+    }
+    .octopus-head-eye {
+      position: absolute;
+      right: 80px;
+    }
+}
