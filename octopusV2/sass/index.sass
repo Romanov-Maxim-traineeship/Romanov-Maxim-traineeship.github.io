@@ -1,0 +1,231 @@
+*
+	box-sizing: border-box
+.content 
+	margin-left: -7vw
+ padding: 10px;
+ margin-top: -30px
+ width: 78vw
+
+
+.desc
+	width: 65vw
+	margin: 0 auto
+	&-img
+		width: 100%
+		margin-left: auto
+		margin-right: auto
+.octopus
+	margin: 0 auto
+	width: 76vw
+	height: 90vh
+	background-color: tranparent
+	&__head
+		position: relative
+		opacity: .9
+		// border: 1px solid #ffccb8
+		border-right: none
+		width: 40%
+		height: 100%
+		background-color: #ccc
+		border-radius: 50% 0 0 50%
+		background-image: linear-gradient(to right, #ffe4da, #ffd8c9, #ffccb8, #ffbfa8, #ffb398)
+	&__eye
+		position: absolute
+		background-color: #fff
+		height: 12vw
+		width: 12vw
+		border-radius: 50%
+		left: 10vw
+		top: 3vw
+		&-ex
+			margin-top: 25vw
+
+	&__pupil
+		// border: 1px solid #ccc
+		position: absolute
+		background-color: #000
+		height: 6vw
+		width: 6vw
+		border-radius: 50%
+		left: 3vw
+		top: 3vw
+	&__body
+		width: 60%
+		height: 100%
+		background-color: transparent
+
+	&__head, &__body
+		display: inline-block
+		float: left
+	&__tentacles
+		width: 100%
+		height: 100%
+		display: flex
+		flex-direction: column
+		justify-content: space-between
+	&__tentacle
+		background-color: rgba(#fff, 0.03)
+		border-radius: 0 1vw 1vw 0
+		&:last-child
+			margin-bottom: 0
+	// ЧЕРЕЗ ГОД начало
+	&__skill
+		width: 1%
+		background-color: rgba(#77D357, .3)
+		border-radius: 0 1vw 1vw 0
+		
+		&-curiosity
+			width: 85%
+
+		&-honesty
+			width: 90%
+
+		&-creation
+			width: 75%
+
+		&-lazy
+			width: 95%
+
+		&-layout
+			width: 88%
+
+		&-semantics
+			width: 90%
+
+		&-web
+			text-align: center
+			position: relative
+			width: 65%
+
+		&-photoshop
+			width: 75%
+
+		&-strategy
+			width: 68%
+				
+		&-english
+			width: 80%
+
+		&-algorithm
+			width: 56%
+
+		&-git
+			width: 40%
+
+		&-js
+			width: 75%
+
+		&-ruby
+			width: 75%
+
+			// ЧЕРЕЗ ГОД конец
+
+
+
+	// СЕЙЧАС начало
+	&__value
+		color: #fff
+		text-shadow: 1px 1px 1px black, 0 0 .8em #000
+		border-radius: 0 1vw 1vw 0
+		text-align: right
+		padding: .5vw
+		background-color: #ffb398
+		width: 0%
+		min-height: 1.2vw
+
+		&-curiosity
+			width: 90%
+			background-image: linear-gradient(to left, #9fe72f, #d7d535, #f7c554, #ffb877, #ffb398)
+
+		&-honesty
+			width: 95%
+			background-image: linear-gradient(to left, #2fe73f, #add722, #e5c541, #ffb76d, #ffb398)
+		&-creation
+			width: 60%
+			background-image: linear-gradient(to left, #e76f2f, #ef804b, #f69165, #fba27f, #ffb398)
+
+		&-lazy
+			width: 100%
+			background-image: linear-gradient(to right, #6dd357, #9fb900, #c89900, #e96d00, #ff2525);
+
+		&-layout
+			width: 68%
+			background-image: linear-gradient(to left, #dfe72f, #fbd547, #ffc564, #ffb980, #ffb398)
+
+		&-semantics
+			width: 40%
+			background-image: linear-gradient(to right, #ffb398, #f99a7e, #f27f67, #ea6353, #e14141);
+
+		&-web
+			font-size: .8vw
+			width: 25%
+			background-image: linear-gradient(to right, #ffb398, #ffa288, #ff8f7a, #ff7c6f, #ff6666);
+
+		&-photoshop
+			width: 40%
+			font-size: 1vw
+			background-image: linear-gradient(to right, #ffb398, #f99a7e, #f27f67, #ea6353, #e14141);
+
+		&-strategy
+			width: 60%
+			background-image: linear-gradient(to left, #dfe72f, #fbd547, #ffc564, #ffb980, #ffb398)
+
+		&-english
+			width: 79%
+			background-image: linear-gradient(to left, #9fe72f, #d7d535, #f7c554, #ffb877, #ffb398)
+
+		&-algorithm
+			font-size: 1vw
+			width: 45%
+			background-image: linear-gradient(to right, #ffb398, #ffa288, #ff8f7a, #ff7c6f, #ff6666);
+
+		&-git
+			width: 14%
+			background-image: linear-gradient(to right, #ffb398, #ffa288, #ff8f7a, #ff7c6f, #ff6666);
+
+		&-js
+			width: 20%
+			background-image: linear-gradient(to right, #ffb398, #ffa288, #ff8f7a, #ff7c6f, #ff6666);
+
+		&-ruby
+			font-size: .99vw
+			width: 30%
+			background-image: linear-gradient(to right, #ffb398, #ffa288, #ff8f7a, #ff7c6f, #ff6666);
+
+
+			// СЕЙЧАС конец
+
+
+
+
+
+
+
+
+
+@media (max-width: 1100px)
+	.octopus
+		width: 76vw
+		height: 50vw
+		&__head
+			width: 35%
+			height: 100%
+			border-radius: 50% 0 0 50%
+		&__body
+			width: 65%
+			height: 100%
+
+
+	.octopus__value-web
+		min-height: 1.8vw
+	
+	.octopus__eye
+		margin-top: 5vw
+	.octopus__eye-ex
+		margin-top: 25vw
+	.desc
+		margin-bottom: 5vw
+	.content 
+	 padding: 10px;
+	 margin-top: -30px
+	 width: 40vw
