@@ -171,3 +171,9 @@ body {
   background-image: -webkit-gradient(linear, right top, left top, from(#ff0b00), color-stop(#ff522c), color-stop(#ff774f), color-stop(#ff9673), to(#ffb398));
   background-image: linear-gradient(to left, #ff0b00, #ff522c, #ff774f, #ff9673, #ffb398);
 }
+
+@media (max-width: 1200px) {
+    .octopus-head {
+        width: 324px;
+    }
+}
