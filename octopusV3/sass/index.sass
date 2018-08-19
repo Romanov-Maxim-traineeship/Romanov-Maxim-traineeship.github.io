@@ -1,0 +1,328 @@
+@import 'variables'
+
+
+* 
+	box-sizing: border-box
+
+.wrap
+	height: 100vh
+	display: flex
+	justify-content: center 
+	align-items: center
+.container
+	width: 1500px
+
+.octopus
+	width: 100%
+	height: 850px
+	&__head, &__body
+		display: inline-block
+		float: left
+
+	&__head
+		opacity: .85
+		position: relative
+		width: 40%
+		height: 100%
+		// background-color: rgba($octopus-color, $octopus-alpha)
+		background-image: linear-gradient(to right, #ffaced, #ff93ce, #ff7aa8, #ff647f, #f45353)
+		border-radius: 50% 0 0 50% 
+		border: 1px solid rgba($border-color, $border-alpha)
+		border-right: none
+	&__eye
+		position: absolute
+		width: 200px
+		height: 200px
+		background-color: rgba(#fff, .8)
+		left: 150px
+		top: 100px
+		border-radius: 50%
+	&__pupil
+		transition: all 1s
+		position: absolute
+		width: 100px
+		height: 100px
+		background-color: rgba(#000, 1)
+		left: 50px
+		top: 60px
+		border-radius: 50%
+		animation: nev 7s infinite alternate-reverse 
+
+	&__body
+		width: 60%
+		height: 100%
+
+	&__list
+		width: 100%
+		height: 100%
+		display: flex
+		flex-direction: column
+		justify-content: space-between
+
+	&__item
+		width: 100%
+		background-color: rgba($octopus-color, $octopus-alpha)
+		border-radius: 0 20px 20px 0  
+		color: $text-color
+		text-shadow: 2px 3px 10px black, 0 0 1em #000
+		// border: 1px solid rgba($border-color, $border-alpha)
+		// border-left: none
+		&-future
+			font-size: 19px
+			position: relative
+			width: 80%
+			display: flex
+			align-items: center
+			border-radius: 0 20px 20px 0  
+			background-image: linear-gradient(to left, #5ac93a, #a0b200, #cd9500, #ea7325, #f45353)
+			opacity: .85
+			// background-color: rgba($octopus-future-color, $octopus-future-alpha)
+			// border: 1px solid rgba($border-color, $border-alpha)
+			border-left: none
+			&-desc
+				position: absolute
+				right: 15px
+
+
+			// future
+			&-curiosity
+				width: 85%
+				animation: curiosity 2s ease-out 1 normal
+			&-honesty
+				width: 90%
+				animation: honesty 2s ease-out 1 normal
+			&-creation
+				width: 75%
+				animation: creation 2s ease-out 1 normal
+			&-task
+				width: 70%
+				animation: task 2s ease-out 1 normal
+			&-layout
+				width: 80%
+				animation: layout 2s ease-out 1 normal
+			&-semantic
+				width: 90%
+				animation: semantic 2s ease-out 1 normal
+			&-web
+				font-size: 16px
+				width: 70%
+				animation: web 2s ease-out 1 normal
+			&-photoshop
+				width: 75%
+				animation: photoshop 2s ease-out 1 normal
+			&-strategy
+				width: 68%
+				animation: strategy 2s ease-out 1 normal
+			&-english
+				width: 80%
+				animation: english 2s ease-out 1 normal
+			&-algoritm
+				width: 66%
+				animation: algoritm 2s ease-out 1 normal
+			&-git
+				width: 50%
+				animation: git 2s ease-out 1 normal
+			&-js
+				width: 80%
+				animation: js 2s ease-out 1 normal
+			&-ruby
+				width: 85%
+				animation: ruby 2s ease-out 1 normal
+			&-empty
+				width: 7%
+				animation: empty 2s ease-out 1 normal
+
+				// future end
+		&-now
+			// background-color: rgba($octopus-now-color, $octopus-now-alpha)
+			position: relative
+			width: 50%
+			min-height: 40px
+			display: flex
+			align-items: center
+			border-radius: 0 20px 20px 0  
+			border: 1px solid rgba($border-color, $border-alpha)
+			border-left: none
+			padding: 13px
+			&-desc
+				position: absolute
+				right: 15px
+
+			// now
+
+			&-curiosity
+				width: 90%
+			&-honesty
+				width: 90%
+			&-creation
+				width: 60%
+			&-task
+				width: 45%
+			&-layout
+				width: 68%
+			&-semantic
+				width: 40%
+			&-web
+				width: 40%
+			&-photoshop
+				width: 45%
+			&-strategy
+				width: 60%
+			&-english
+				width: 79%
+			&-algoritm
+				width: 49%
+			&-git
+				width: 24%
+			&-js
+				width: 25%
+			&-ruby
+				width: 37%
+			&-empty
+				width: 100%
+				
+				// now end
+
+
+.octopus_item-now-desc
+	width: 100px
+	margin-left: -150px
+
+
+@keyframes nev 
+ 0%
+ 	left: 100px
+		top: 60px 
+ 20%  
+ 	left: 20px
+		top: 65px 
+ 50%  
+ 	left: 0px
+		top: 50px 
+ 100% 
+ 	left: 50px
+		top: 0px 
+  // ------------------------
+
+
+
+@keyframes curiosity
+ 0%
+ 	width: 75% 
+ 80% 
+ 	width: 100%
+ 100% 
+ 	width: 85%
+
+@keyframes honesty
+ 0%
+ 	width: 80% 
+ 80% 
+ 	width: 100%
+ 100% 
+ 	width: 90%
+
+@keyframes creation
+ 0%
+ 	width: 45% 
+ 80% 
+ 	width: 100%
+ 100% 
+ 	width: 75%
+
+@keyframes task
+ 0%
+ 	width: 50% 
+ 80% 
+ 	width: 100%
+ 100% 
+ 	width: 70%
+
+@keyframes layout
+ 0%
+ 	width: 56% 
+ 80% 
+ 	width: 100%
+ 100% 
+ 	width: 80%
+
+@keyframes semantic
+ 0%
+ 	width: 70% 
+ 80% 
+ 	width: 100%
+ 100% 
+ 	width: 90%
+
+@keyframes web
+ 0%
+ 	width: 60% 
+ 80% 
+ 	width: 100%
+ 100% 
+ 	width: 70%
+
+@keyframes photoshop
+ 0%
+ 	width: 65% 
+ 80% 
+ 	width: 100%
+ 100% 
+ 	width: 75%
+
+@keyframes strategy
+ 0%
+ 	width: 50% 
+ 80% 
+ 	width: 100%
+ 100% 
+ 	width: 68%
+
+@keyframes english
+ 0%
+ 	width: 60% 
+ 80% 
+ 	width: 100%
+ 100% 
+ 	width: 80%
+
+@keyframes algoritm
+ 0%
+ 	width: 55% 
+ 90% 
+ 	width: 100%
+ 100% 
+ 	width: 66%
+
+
+@keyframes git
+ 0%
+ 	width: 24% 
+ 80% 
+ 	width: 100%
+ 100% 
+ 	width: 50%
+
+@keyframes js
+ 0%
+ 	width: 60% 
+ 80% 
+ 	width: 100%
+ 100% 
+ 	width: 80%
+
+@keyframes ruby
+ 0%
+ 	width: 65% 
+ 80% 
+ 	width: 100%
+ 100% 
+ 	width: 85%
+
+@keyframes empty
+ 0%
+ 	width: 2% 
+ 100% 
+ 	width: 7%
+  
+@import 'media'
