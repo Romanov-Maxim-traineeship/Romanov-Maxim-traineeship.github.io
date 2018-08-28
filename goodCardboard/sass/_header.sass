@@ -1,0 +1,113 @@
+.header
+	background-color: $bg-color-light
+	margin-top: 45px
+	&-logo
+		background: url(../img/logo.png) 0 0 no-repeat
+		background-size: 100%
+		width: 191px
+		height: 61px
+	padding: 15px 0
+	&-contacts
+		display: flex
+		justify-content: flex-end
+		align-items: center
+		&__btn
+			z-index: 100
+		&__phone
+			&s
+				display: flex
+			font-size: 22px
+			font-weight: 500
+			line-height: 22px
+			text-transform: uppercase
+			color: $text-color-dark
+			margin-right: 14px
+			&:first-child
+				border-right: 1px solid #cfcfd0
+				padding-right: 13px
+			&:last-child
+				margin-right: 14px
+.header-logo
+	z-index: 11
+
+
+.mobile
+	top: 50%
+	margin-top: -17.5px
+	position: fixed
+	z-index: 10
+	top: 38
+	&-nav
+		margin-right: 10px
+		display: block
+		width: 23px
+		height: 35px
+		background-color: transparent
+		box-shadow: 1px 1px 250px rgba(#000, .5)
+		&_active &_span
+			width: 0
+			&:before
+				margin-top: 0
+				transform: rotate(135deg)
+			&:after
+				margin-top: 0
+				transform: rotate(-135deg)
+		&_span, &_span:before, &_span:after
+			z-index: 19
+			transition: all 0.9s
+			display: none
+			height: 3px
+			width: 18px
+			position: absolute
+			top: 50%
+			margin-top: -2px
+			background-color: $text-color-dark
+		&_span:before
+			display: block
+			width: 23px
+			transition: all 0.5s
+			content: ''
+			margin-top: -10px
+		&_span:after
+			display: block
+			width: 23px
+			transition: all 0.5s
+			content: ''
+			margin-top: 6px
+
+.header-mobile-nav
+	transition: all 0.3s
+	background-image: linear-gradient(to top, #373737, #626262, #909090, #c1c1c1, #f4f4f4);
+	display: block
+	height: 0
+	&__wrap
+		display: flex
+		justify-content: center
+		text-align: center
+		
+	&__list
+		margin: 0
+		list-style: none
+		padding: 0
+		width: 100%
+	&__link
+		transition: all 0.2s
+		color: #F4F4F4
+		text-decoration: none
+		line-height: 2
+		letter-spacing: 3px
+		display: block
+		text-shadow: 1px 1px 10px black, 0 0 1em $text-color-dark
+		&:hover
+			background-color: rgba(255, 255, 255, 0.9)
+			color: $text-color-dark
+			font-weight: 900
+			font-size: 25px
+			margin: 5px 0
+		
+		
+.header-mobile-nav_active
+	transition: all 0.4s
+	padding: 20px 0
+	padding-top: 32px
+	height: 350px
