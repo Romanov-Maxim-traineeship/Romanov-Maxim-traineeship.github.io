@@ -25,8 +25,8 @@ $(function(){
   focusOnSelect: true,
   centerMode: true,
   centerPadding: '0px',
-  prevArrow: '<img src="../img/comments/arrow-left.png" class="arrow-img arrow-img_prev">',
-  nextArrow: '<img src="../img/comments/arrow-right.png" class="arrow-img arrow-img_next">',
+  prevArrow: '<img src="img/comments/arrow-left.png" class="arrow-img arrow-img_prev">',
+  nextArrow: '<img src="img/comments/arrow-right.png" class="arrow-img arrow-img_next">',
   responsive: [
     {
       breakpoint: 1024,
