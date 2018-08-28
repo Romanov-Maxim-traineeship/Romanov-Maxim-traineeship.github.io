@@ -145,7 +145,7 @@ button:focus {
 }
 
 .mobile {
-  top: 50%;
+  top: 36px;
   margin-top: -17.5px;
   position: fixed;
   z-index: 10;
