@@ -33,40 +33,32 @@ a:hover {
   text-decoration: none;
 }
 
-b {
-  margin-left: 0px;
-  color: rgba(0, 0, 0, 0.8);
-  font-weight: 900;
-  font-size: 19px;
-}
-
 .container {
   margin-top: 61px;
   margin-bottom: 61px;
   border: 25px solid #fff21e;
-  background-color: #fefefe;
+  background-color: #fff;
 }
 
 .header-name_wrap {
   position: relative;
-  margin-top: 280px;
+  margin-top: 80px;
 }
 
 .header-name {
-  text-transform: uppercase;
   bottom: 165px;
-  padding-left: 35px;
+  padding-left: 55px;
   font-size: 70px;
   background-color: transparentize;
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   color: #1f1f29;
   line-height: 0.8em;
-  letter-spacing: 0.1em;
+  letter-spacing: 0em;
 }
 
 .header-name-second {
-  line-height: 0.89em;
+  line-height: 1em;
   bottom: 98px;
   letter-spacing: 0.04em;
 }
@@ -84,19 +76,36 @@ b {
 }
 
 .header-about__desc {
+  margin-bottom: 15px;
   display: inline-block;
   min-width: 190px;
-  margin-left: 30px;
+  margin-left: 20px;
   font-family: 'Poppins', sans-serif;
   font-weight: 600;
 }
 
 .header-img {
   position: absolute;
-  right: 65px;
-  top: 17px;
-  width: 407px;
-  height: 476px;
+  right: 80px;
+  top: 30px;
+  width: 360px;
+  height: 418px;
+}
+
+@font-face {
+  font-family: "ArialRegular";
+  src: url("../fonts/ArialRegular/ArialRegular.eot");
+  src: url("../fonts/ArialRegular/ArialRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/ArialRegular/ArialRegular.woff") format("woff"), url("../fonts/ArialRegular/ArialRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "ArialBold";
+  src: url("../fonts/ArialBold/ArialBold.eot");
+  src: url("../fonts/ArialBold/ArialBold.eot?#iefix") format("embedded-opentype"), url("../fonts/ArialBold/ArialBold.woff") format("woff"), url("../fonts/ArialBold/ArialBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
 }
 
 .section-about {
@@ -134,31 +143,103 @@ b {
 
 .section-about__desc {
   max-width: 900px;
-  margin: 0 auto;
-  font-family: 'Montserrat', sans-serif;
-  letter-spacing: 0.05em;
-  line-height: 1.2em;
-  font-weight: 500;
+  font-family: 'Tahoma', sans-serif;
+  letter-spacing: -0.02em;
+  line-height: 1em;
   margin-bottom: 30px;
-  font-size: 0.8em;
+  font-size: 0.921em;
+}
+
+.section-about-info {
+  width: 100%;
+  margin-top: 30px;
+  margin-left: 120px;
+  font-family: 'Tahoma', sans-serif;
+  letter-spacing: -0.02em;
+  line-height: 1em;
+  margin-bottom: 30px;
+  font-size: 0.921em;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.section-about-list {
+  margin-top: 50px;
+  width: 100%;
+  margin-top: 25px;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.section-about-item {
+  width: 100%;
+  position: relative;
+}
+
+.section-about-item:before {
+  content: '';
+  display: block;
+  position: absolute;
+  left: -5px;
+  top: 7px;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background-color: #ff4d57;
+}
+
+.section-about-dataOne {
+  margin-left: 12px;
+  display: inline-block;
+  width: 140px;
+}
+
+.section-about-dataTwo {
+  display: inline-block;
+}
+
+.section-about-dataOne {
+  text-decoration: underline;
+  font-size: 17px;
+}
+
+.section-about-dataTwo {
+  margin-left: 10px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 17px;
 }
 
 .section-skills_personal,
 .section-skills_professional {
-  padding-left: 60px;
+  padding-left: 70px;
 }
 
 .section-skills_professional {
   padding-left: 0px;
 }
 
-.section-skills_personal {
-  text-transform: lowercase;
-}
-
 .section-about__desc-skill {
   max-width: 400px;
   margin-left: 0;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1em;
+  letter-spacing: -0.05em;
+  font-size: 17px;
 }
 
 .progress {
@@ -214,8 +295,13 @@ b {
 }
 
 .sections-education_school {
-  padding-left: 60px;
+  padding-left: 70px;
   margin-top: 50px;
+}
+
+.sections-education_school-dop {
+  padding-left: 0;
+  max-width: 420px;
 }
 
 .sections-education_timeline {
@@ -298,6 +384,13 @@ b {
   line-height: 1.1em;
 }
 
+.timeline_desc {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.25em;
+  letter-spacing: -0.05em;
+  font-size: 17px;
+}
+
 .section-connect {
   margin-bottom: 50px;
 }
@@ -339,16 +432,16 @@ b {
   background-color: #0077ff;
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 50%;
-  -webkit-box-shadow: 2px -2px 10px rgba(0, 0, 0, 0.5);
-  box-shadow: 2px -2px 10px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
 }
 
 .section-connect_link_fb:hover,
 .section-connect_link_vk:hover,
 .section-connect_link_li:hover {
   background-color: #0077a0;
-  -webkit-box-shadow: 2px -2px 20px rgba(0, 0, 0, 0.5);
-  box-shadow: 2px -2px 20px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
 }
 
 .section-connect_link_fb-img,
@@ -422,6 +515,15 @@ b {
     font-size: 53px;
   }
 
+  .section-about-info {
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+  .section-about-dataTwo {
+    margin-left: 10px;
+  }
+
   .header-about {
     width: 100%;
     padding-left: 0px;
@@ -487,6 +589,41 @@ b {
     width: 95%;
     height: 75%;
   }
+
+  .section-about-item {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .section-about-item {
+    margin-bottom: 10px;
+  }
+
+  .section-about-item:before {
+    content: '';
+    display: none;
+  }
+
+  .section-about-dataOne {
+    margin-left: 0;
+    margin-bottom: 10px;
+    width: 100%;
+    display: block;
+  }
+
+  .section-about-dataTwo {
+    margin-left: 0;
+    display: block;
+  }
 }
 
 @media (max-width: 370px) {
@@ -511,9 +648,4 @@ b {
 
 .border {
   border: none !important;
-}
-
-.skill-b {
-  font-weight: 400;
-  font-size: 17px;
 }

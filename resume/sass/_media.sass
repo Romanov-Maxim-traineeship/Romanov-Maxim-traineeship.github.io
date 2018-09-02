@@ -30,6 +30,12 @@
 	.header-name
 		padding-left: 0
 		font-size: 53px
+	.section-about
+		&-info
+			padding-left: 0
+			margin-left: 0
+	.section-about-dataTwo
+		margin-left: 10px
 
 
 	.header-about
@@ -70,6 +76,27 @@
 		top: 20px
 		width: 95%
 		height: 75%
+
+	.section-about
+		&-item
+			display: flex
+			flex-direction: column
+			justify-content: center
+			text-align: center
+		&-item
+			margin-bottom: 10px
+			&:before
+				content: ''
+				display: none
+		&-dataOne
+			margin-left: 0
+			margin-bottom: 10px
+			width: 100%
+			display: block
+		&-dataTwo
+			margin-left: 0
+			display: block
+			
 
 @media (max-width: 370px)
 	.header-name
