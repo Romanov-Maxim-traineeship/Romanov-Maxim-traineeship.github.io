@@ -243,7 +243,7 @@ a:hover {
 }
 
 .progress {
-  width: 80%;
+  width: 79%;
   height: 5px;
   margin: 5px 0 28px 0;
 }
@@ -268,7 +268,7 @@ a:hover {
 }
 
 .section-skills_professional--desc {
-  width: 20%;
+  width: 21%;
   text-transform: uppercase;
 }
 
@@ -519,6 +519,10 @@ a:hover {
     top: 17px;
     width: 75vw;
     height: 476px;
+  }
+
+  .section-skills_professional--desc {
+    width: 26%;
   }
 }
 
