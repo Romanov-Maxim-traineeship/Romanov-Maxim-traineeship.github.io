@@ -74,7 +74,7 @@ end
 puts result
 
 t = STDIN.gets
-
+h
 
 
 
