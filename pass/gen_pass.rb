@@ -73,7 +73,7 @@ case boolNum
 end
 puts result
 
-
+t = STDIN.gets
 
 
 
