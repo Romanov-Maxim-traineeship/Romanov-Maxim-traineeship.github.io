@@ -22,7 +22,7 @@ case boolNum
       i +=2
       word += randomWord(consonants, vowels)
     end
-    result = word[0,DefWidth]
+      result = word[0,DefWidth]
     
   when 1
     print "numbers after or before the password? 1/0 "
