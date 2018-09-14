@@ -46,7 +46,6 @@ class Generate
     result = word[0,@width]
     result += unit
   end
-
 end
 
 item = Generate.new(8, 1, 3)
