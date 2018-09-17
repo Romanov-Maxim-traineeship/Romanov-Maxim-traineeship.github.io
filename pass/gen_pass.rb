@@ -1,15 +1,15 @@
 class Generate 
+  VOWELS = ["a","e","i","y","o","u"]
+  CONSONANTS = ["b","c","d","f","g","h","j","k","l","m","n","p","q","r","s","t","v","x","w","z"]
   attr_accessor :width, :number, :number_size
   def initialize (width = 6, number = 0, number_size = 3)
     @width = width
     @number = number
     @number_size = number_size
-    @VOWELS = ["a","e","i","y","o","u"]
-    @CONSONANTS = ["b","c","d","f","g","h","j","k","l","m","n","p","q","r","s","t","v","x","w","z"]
   end
 
   def random_syllable
-    @VOWELS[rand(@VOWELS.size)] + @CONSONANTS[rand(@CONSONANTS.size)]
+    Generate::VOWELS[rand(Generate::VOWELS.size)] + Generate::CONSONANTS[rand(Generate::CONSONANTS.size)]
   end
 
   def random_number
@@ -37,7 +37,6 @@ class Generate
         result = word[0,@width]
     when 1
       @width -= @number_size
-      
       remain = 5-(@width%5)
       @width += remain
       word = ""
