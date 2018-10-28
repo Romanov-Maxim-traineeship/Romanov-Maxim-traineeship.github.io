@@ -21,4 +21,13 @@ public class MovieList {
             System.out.println("Такой фильм уже существует!");
         }
     }
+
+    public static void searchMovie(String name){
+        for (Movie n : movieList){
+            if (n.getName().contains(name)){
+                System.out.println(n + "\n");
+            }
+        }
+
+    }
 }

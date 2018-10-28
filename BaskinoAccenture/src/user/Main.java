@@ -12,17 +12,19 @@ public class Main {
         addUser("ivan", "123", "3");
         addUser("faleot", "max777", "4");
 
-        MovieList.addMovie("Престиж", "2005", "Драма");
-        MovieList.addMovie("Адвокат дьявола", "1997", "Детектив");
-        MovieList.addMovie("Зеленая миля ", "2007", "Драма");
-        MovieList.addMovie("Матрица", "2001", "Фантастика");
-        MovieList.addMovie("Властелин колец", "2002", "Фантастика");
+        MovieList.addMovie("престиж", "2005", "Драма");
+        MovieList.addMovie("адвокат дьявола", "1997", "Детектив");
+        MovieList.addMovie("адвокат", "2010", "мелодрама");
+        MovieList.addMovie("зеленая миля", "2007", "Драма");
+        MovieList.addMovie("миля", "2007", "Драма");
+        MovieList.addMovie("матрица", "2001", "Фантастика");
+        MovieList.addMovie("властелин колец", "2002", "Фантастика");
         while (true){
 
             Scanner scanner_login = new Scanner(System.in);
             System.out.print("Введите Логин: ");
             String loginUser = scanner_login.nextLine();
-
+            if(loginUser.equals("logout")) break;
             if (getUser(loginUser) != null){
                 System.out.print("Введите Пароль: ");
                 String passwordUser = scanner_login.nextLine();
@@ -40,7 +42,8 @@ public class Main {
                 System.out.println("");
                 System.out.print("Введите название фильма: ");
                 String filmName = scanner_login.nextLine(); if (filmName.equals("logout")){log = false; }
-                System.out.println(MovieList.getMovie(filmName));
+//                System.out.println();
+                MovieList.searchMovie(filmName);
             }
 
 
