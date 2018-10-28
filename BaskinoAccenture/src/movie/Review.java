@@ -11,9 +11,21 @@ public class Review extends Movie{
         this.review = review;
     }
 
-    public static void addReview(String name, String review){
-        reviewsList.add(new Review(name, review));
+    public static void addReview(String filmName, String review){
+        reviewsList.add(new Review(filmName, review));
     }
 
+    @Override
+    public String toString() {
+        return  "Отзыв: " + this.review;
+    }
 
+    public static void searchReview(String filmName){
+        for (Movie n : reviewsList){
+            if (n.getName().contains(filmName)){
+                System.out.println(n + "\n");
+            }
+        }
+
+    }
 }

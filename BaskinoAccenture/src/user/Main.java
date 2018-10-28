@@ -19,6 +19,8 @@ public class Main {
         MovieList.addMovie("миля", "2007", "Драма");
         MovieList.addMovie("матрица", "2001", "Фантастика");
         MovieList.addMovie("властелин колец", "2002", "Фантастика");
+
+        Review.addReview("Матрица", "Очень хороший фильм!");
         while (true){
 
             Scanner scanner_login = new Scanner(System.in);
@@ -43,6 +45,7 @@ public class Main {
                 System.out.print("Введите название фильма: ");
                 String filmName = scanner_login.nextLine(); if (filmName.equals("logout")){log = false; }
 //                System.out.println();
+                Review.searchReview(filmName);
                 MovieList.searchMovie(filmName);
             }
 
