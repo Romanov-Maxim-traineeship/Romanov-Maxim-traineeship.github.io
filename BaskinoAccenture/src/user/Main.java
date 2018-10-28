@@ -1,4 +1,6 @@
 package user;
+import movie.*;
+//import movie.MovieList;
 import static user.UserList.*;
 import java.util.Scanner;
 
@@ -10,6 +12,11 @@ public class Main {
         addUser("ivan", "123", "3");
         addUser("faleot", "max777", "4");
 
+        MovieList.addMovie("Престиж", "2005", "Драма");
+        MovieList.addMovie("Адвокат дьявола", "1997", "Детектив");
+        MovieList.addMovie("Зеленая миля ", "2007", "Драма");
+        MovieList.addMovie("Матрица", "2001", "Фантастика");
+        MovieList.addMovie("Властелин колец", "2002", "Фантастика");
         while (true){
 
             Scanner scanner_login = new Scanner(System.in);
@@ -33,6 +40,7 @@ public class Main {
                 System.out.println("");
                 System.out.print("Введите название фильма: ");
                 String filmName = scanner_login.nextLine(); if (filmName.equals("logout")){log = false; }
+                System.out.println(MovieList.getMovie(filmName));
             }
 
 
