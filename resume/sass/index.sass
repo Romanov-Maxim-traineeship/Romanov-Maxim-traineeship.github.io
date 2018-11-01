@@ -1,0 +1,89 @@
+html, body
+	width: 100%
+	height: 100%
+
+body
+ background-image: url('../img/pattern.png')
+ background-repeat: repeat
+ background-color: #5b5efa
+*,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+a 
+ margin: 0;
+ padding: 0;
+
+ul,li 
+	list-style: none
+a:hover
+	text-decoration: none
+b
+	margin-left: 0px
+	color: rgba(#000, 0.8)
+	font-weight: 900
+	font-size: 19px
+.container
+	margin-top: 61px
+	margin-bottom: 61px
+	border: 25px solid #fff21e
+	background-color: #fefefe
+.header-name_wrap
+	position: relative
+	margin-top: 280px
+.header-name
+	text-transform: uppercase
+	bottom: 165px
+	padding-left: 35px
+	font-size: 70px
+	background-color: transparentize
+	font-family: 'Roboto', sans-serif
+	font-weight: 700
+	color: #1f1f29
+	line-height: 0.8em
+	letter-spacing: 0.1em
+	&-second
+		line-height: 0.89em
+		bottom: 98px
+		letter-spacing: 0.04em
+
+.header-about
+	width: 100%
+	padding-left: 156px
+	&__border
+		width: 25%
+		height: 3px
+		background-color: #ff4d57
+		display: inline-block
+	&__desc
+		display: inline-block
+		min-width: 190px
+		margin-left: 30px
+		font-family: 'Poppins', sans-serif
+		font-weight: 600
+
+.header-img
+	position: absolute
+	right: 65px
+	top: 17px
+	width: 407px
+	height: 476px	
+
+
+@import '_about.sass'
+@import '_skills.sass'
+@import '_education.sass'
+@import '_connect.sass'
+@import '_media.sass'
+
+
+.border
+	border: none !important
+.skill-b
+	font-weight: 400
+	font-size: 17px
