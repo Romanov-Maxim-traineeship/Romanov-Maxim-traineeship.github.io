@@ -1,0 +1,130 @@
+.picture__img {
+    margin-top: -1px;
+    height: 355px;
+    width: 880px;
+    background: url('../../img/decor/about.jpg') center center no-repeat;
+    position: relative;
+}
+
+.img__text {
+    color: #fff;
+    font-weight: bold;
+    font-size: 49px;
+    position: absolute;
+    margin-top: 145px;
+    margin-left: 66px;
+    text-transform: uppercase;
+}
+
+.page__desc {
+    margin-top: 22px;
+    max-width: 700px;
+    font-size: 18px;
+    font-family: "Gotham Pro";
+    color: rgb(34, 31, 31);
+    line-height: 1.667;
+    font-weight: 300;
+}
+
+h3 {
+    margin-top: -7px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 6px;
+}
+
+.page__desc ul {
+    margin-left: 18px;
+}
+
+.page__desc li {
+    background: url('../../img/decor/list-bullet.png') 2px 14px no-repeat;
+    margin-bottom: 5px;
+    padding-left: 19px;
+}
+
+.page__desc li:last-child {
+    margin-bottom: -13px;
+}
+
+.desc__discount {
+    margin-top: 25px;
+    background: #27273e;
+    margin-bottom: 68px;
+}
+
+.discount__text {
+    font-size: 18px;
+    font-family: "Gotham Pro";
+    color: #fff;
+    line-height: 1.667;
+    max-width: 670px;
+    padding-top: 8px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+
+.text__attention {
+	color: #ec1e79;
+	font-weight: bold;
+}
+
+h1 {
+    font-size: 49px;
+    font-family: "Gotham Pro";
+    color: rgb(34, 31, 31);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 0.776;
+}
+
+.page__partners {
+	max-width: 700px;
+	margin-bottom: 18px;
+}
+
+.partners__list {
+	margin-top: 50px;
+}
+.partners__item {
+	list-style: none;
+}
+
+.partners__link {
+	display: inline-block;
+	float: left;
+	width: 33.33%;
+	height: 65px;
+	margin-bottom: 50px;
+}
+
+.partners__img {
+     -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    transition: 1s;
+}
+
+.partners__img:hover {
+     -webkit-filter: grayscale(0);
+    filter: grayscale(0);
+}
+
+.partners__img_one {
+	margin-top: 10px;
+}
+
+.partners__link_two, .partners__link_five {
+	text-align: center;
+}
+
+.partners__link_three, .partners__link_six {
+	text-align: right;
+}
+
+.partners__img_three {
+	margin-right: 15px;
+}
+
+.partners__img_six {
+	margin-right: 55px;
+}

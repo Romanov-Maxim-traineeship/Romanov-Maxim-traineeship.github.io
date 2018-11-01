@@ -1,0 +1,22 @@
+@import 'layout/normalize.css';
+@import 'layout/fonts.css';
+@import 'layout/base.css';
+
+
+
+
+@import 'elements/header.css';
+@import 'elements/dropdown.css';
+@import 'elements/sidebar.css';
+@import 'elements/pagination.css';
+@import 'elements/main_content.css';
+@import 'elements/breadcrumbs.css';
+@import 'elements/footer.css';
+
+
+
+
+@import 'pages/index.css';
+@import 'pages/about.css';
+@import 'pages/prices.css';
+@import 'pages/reviews.css';

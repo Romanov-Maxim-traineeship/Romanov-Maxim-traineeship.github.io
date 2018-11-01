@@ -1,19 +1,27 @@
 package movie;
+import java.util.List;
 
 public class Movie {
     private String name;
     private String yearOfRelease;
     private String genre;
-
+    private List<Review>review;
     Movie(String name, String yearOfRelease, String genre){
         this.name = name;
         this.yearOfRelease = yearOfRelease;
         this.genre = genre;
     }
 
-    Movie(String name){
-        this.name = name;
+    public void setReview(List<Review> review) {
+        this.review = review;
     }
+
+    public List<Review> getReview(List<Review> review) {
+        return this.review = review;
+    }
+
+
+
 
     Movie(){}
 

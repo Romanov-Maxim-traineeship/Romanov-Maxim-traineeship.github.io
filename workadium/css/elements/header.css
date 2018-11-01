@@ -1,0 +1,40 @@
+header {
+	background: #27273e;
+}
+
+.container__left, .container__right {
+	width: 50%;
+	float: left;
+}
+
+.container__right {
+	margin-top: 17px;
+	text-align: right;
+}
+
+.container__left {
+	margin-top: 19px;
+}
+
+.contacts__phone {
+	text-decoration: none;
+	color: #fff;
+	font-size: 21px;
+	font-weight: bold;
+	display: inline-block;
+}
+
+.contacts__desc {
+	margin-bottom: 17px;
+	color: #7faad4;
+	text-decoration: underline;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	display: inline-block;
+	transition: 0.5s;
+}
+
+.contacts__desc:hover {
+	color: #c02169;
+}

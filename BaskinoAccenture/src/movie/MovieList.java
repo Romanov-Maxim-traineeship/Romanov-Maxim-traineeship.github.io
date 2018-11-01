@@ -22,6 +22,16 @@ public class MovieList {
         }
     }
 
+//    -----??????????????????????????
+    public static void addReview(String name, List<Review> review){
+        for (Movie n : movieList){
+            if (n.getName().contains(name)){
+                movieList.add((Movie) n.getReview(review));
+            }
+        }
+
+    }
+
     public static void searchMovie(String name){
         for (Movie n : movieList){
             if (n.getName().contains(name)){
@@ -30,4 +40,12 @@ public class MovieList {
         }
 
     }
+
+//    public static void addReview(String name, String review){
+//        for (Movie n : movieList){
+//            if (n.getName().contains(name)){
+//                movieList.add();
+//            }
+//        }
+//    }
 }

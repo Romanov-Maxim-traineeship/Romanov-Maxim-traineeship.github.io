@@ -1,0 +1,31 @@
+
+.breadcrumbs {
+	margin-top: 38px;
+    margin-bottom: 8px;
+}
+
+.breadcrumbs__item {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.breadcrumbs__link {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: lighter;
+     line-height: 1.286;
+    color: #ec1e79;
+    border-bottom: 1px solid #fbdfe0;
+}
+
+.breadcrumbs__item:not(:first-child):before {
+	content: "/";
+	display: inline-block;
+	vertical-align: middle;
+}
+
+
+.breadcrumbs__item_active .breadcrumbs__link {
+    border: none;
+    color: #221f1f;
+}

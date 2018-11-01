@@ -1,0 +1,58 @@
+.dropdown__relative {
+    position: relative;
+}
+
+.dropdown {
+   background: #fff;
+    position: absolute;
+    top: 100%;
+    right: -99999999px;
+    z-index: 100000;
+    box-shadow: 0px 0px 10px 0px rgba(23, 59, 117, 0.55);
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.dropdown::before {
+		content: "";
+		display: block;
+		height: 30px;
+		right: 0;
+		left: 0;
+		top: -29px;
+		position: absolute;
+	}
+.contacts__desc:hover .dropdown {
+	right: 0;
+	transition: 0.1s;
+}
+
+.dropdown__triangle {
+	width: 18px;
+	height: 18px;
+	position: absolute;
+	top: -12%;
+	transform: rotate(45deg);
+	background: #fff;
+	right: 4px;
+}
+
+.dropdown__desc {
+	text-align: left;
+	margin-top: 13px;
+	margin-left: 8px;
+	margin-bottom: 15px;
+	margin-right: 11px;
+}
+.dropdown__time {
+	font-size: 14px;
+	font-weight: bold;
+	color: #ec1e79;
+	margin-bottom: 4px;
+}
+
+.dropdown__lunch {
+	font-size: 14px;
+	font-weight: 300;
+	color: #221f1f;
+}

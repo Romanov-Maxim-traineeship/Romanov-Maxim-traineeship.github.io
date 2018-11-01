@@ -1,0 +1,129 @@
+h2 {
+    font-size: 49px;
+    font-weight: bold;
+}
+
+.prices {
+	max-width: 860px;
+    margin-top: 33px;
+    line-height: 0.776;
+}
+
+
+.prices__list {
+	max-width: 860px;
+    position: relative;
+}
+
+.prices__list:last-child {
+	margin-bottom: 22px;
+}
+
+.prices__item {
+	width: 250px;
+    float: left;
+    margin-bottom: 40px;
+    margin-left: 60px;
+}
+
+.prices__list li:nth-child(3n) {
+    margin-left: 50px;
+}
+
+.prices__list li:nth-child(3n+1) {
+    margin-left: 0;
+}
+
+
+
+.prices__picture {
+    width: 250px;
+    height: 153px;
+    background: #27273e;
+    border-radius: 4px;
+    position: relative;
+}
+
+.prices__img {
+    width: 250px;
+    height: 153px;
+    opacity: 0.18;
+    border-radius: 10px;
+}
+
+.prices__img_one {
+    background: url('../../img/content/team/1.jpg') center -20px no-repeat;
+}
+
+.prices__img_two {
+    background: url('../../img/content/team/2.jpg') center -200px no-repeat;
+}
+
+.prices__img_three {
+    background: url('../../img/content/team/3.jpg') center -20px no-repeat;
+}
+
+.prices__img_four {
+    background: url('../../img/content/team/4.jpg') center -20px no-repeat;
+}
+
+.prices__img_five {
+    background: url('../../img/content/team/5.jpg') center -20px no-repeat;
+}
+
+.prices__img_six {
+    background: url('../../img/content/team/6.jpg') center -20px no-repeat;
+}
+
+
+
+.prices__img-desc {
+	text-align: center;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 1.417;
+    color: #5dd1f8;
+    opacity: ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 80%;
+}
+
+.img__vip {
+	display: inline-block;
+	color: #ec1e79;
+}
+
+.prices__about {
+    line-height: 1.167;
+    text-align: center;
+}
+
+.prices__title {
+    margin-top: 23px;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.prices__desc {
+    line-height: 1.550;
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+.titel_little {
+	display: inline-block;
+	font-weight: lighter;
+	font-size: 14px;
+}
+
+.titel_little:not(:first-child) {
+	margin-top: 10px;
+}
+

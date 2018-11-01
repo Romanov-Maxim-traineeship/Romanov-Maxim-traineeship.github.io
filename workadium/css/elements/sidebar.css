@@ -1,0 +1,75 @@
+.sidebar {
+	float: left;
+	width: 180px;
+	height: 100%;
+	margin-top: 43px;
+}
+
+.menu__item {
+	margin-bottom: 26px;
+}
+.menu__link {
+	display: block;
+}
+
+.menu__icon {
+	width: 20px;
+	height: 18px;
+	display: inline-block;
+	background: url('../../img/icons/icons-sprite.png') 0 0 no-repeat;
+	vertical-align: middle;
+}
+.menu__icon_wallet {
+	background-position-x: -100px;
+}
+.menu__link:hover .menu__icon_triangle {
+	background-position-y: -100px;
+
+}
+.menu__link:hover .menu__icon_wallet {
+	background-position: -100px -100px;
+}
+
+.menu__link:hover .menu__icon_star {
+	background-position: -200px -100px;
+	transition: opacity 1s;
+}
+.menu__link:hover .menu__text {
+	color: #535151;
+}
+
+.menu__icon_star {
+	background-position-x: -200px;
+}
+
+.menu__text {
+	max-width: 120px;
+	vertical-align: middle;
+	display: inline-block;
+	font-size: 13px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-left: 13px;
+	color: #ec1e79;
+	transition: 0.5s;
+}
+
+.menu__link_active .menu__text {
+	color: #535151;
+}
+
+.menu__link_active .menu__icon {
+	background-position-y:bottom;
+}
+
+
+.menu__link_active .menu__icon {
+	background-position-y:-100px;
+}
+.menu__link_active .menu__icon_wallet {
+	background-position:-100px -100px;
+}
+
+.menu__link_active .menu__icon_star {
+	background-position:-200px -100px;
+}

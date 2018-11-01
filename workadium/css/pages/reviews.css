@@ -1,0 +1,62 @@
+.reviews {
+    margin-top: 30px;
+    margin-left: 3px;
+}
+
+.reviews__item {
+    width: 880px;
+    padding-bottom: 4px;
+    border-bottom: 2px solid #f5f5f5;
+    margin-bottom: 25px;
+}
+
+.reviews__item:last-child {
+	border: 0;
+	margin-bottom: none;
+}
+
+.reviews__avatar,
+.reviews__desc {
+    display: inline-block;
+}
+
+.reviews__avatar {
+    float: left;
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    margin-top: 4px;
+}
+
+.avatar__img {
+    border-radius: 50%;
+}
+
+.reviews__desc {
+	   max-width: 700px;
+    font-size: 18px;
+    font-family: "Gotham Pro";
+    line-height: 1.5;
+    margin-top: 0;
+    margin-left: 20px;
+}
+
+.reviews__data {
+	color: #656464;
+	font-size: 14px;
+}
+
+.reviews__name {
+	font-weight: bold;
+	color: #221f1f;
+}
+
+.reviews__text {
+ 
+    line-height: 1.7;
+    margin-top: -12px;
+}
+
+.reviews__avatar-empty {
+	filter: grayscale(100%);
+}

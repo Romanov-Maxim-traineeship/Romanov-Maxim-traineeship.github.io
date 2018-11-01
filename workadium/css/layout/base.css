@@ -1,0 +1,58 @@
+html,body {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	font-family: 'Gotham', arial, sans-serif;
+	font-weight: 300;
+	line-height: 1.42;
+	-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	min-width: 1100px;
+}
+
+.wrapper:after {
+	content: "";
+	height: 77px;
+	display: block;
+}
+
+.container {
+	width: 1060px;
+	margin: 0 auto;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+b {
+  font-weight: bold;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+  margin: 0;
+}
