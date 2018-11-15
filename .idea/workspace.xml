@@ -1,65 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf5f5ab8-29c4-4fb9-a7d7-5f78c7ab45cb" name="Default" comment="" />
+    <list default="true" id="bf5f5ab8-29c4-4fb9-a7d7-5f78c7ab45cb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/Romanov-Maxim-traineeship.github.io/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/assets/font-awesome/License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/assets/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/assets/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/assets/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/assets/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/assets/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/assets/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/assets/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/assets/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/assets/ie7-js/IE9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/assets/ie7-js/IE9.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/assets/ie7-js/License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/assets/ie7-js/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/assets/jquery/License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/assets/jquery/jquery-1.11.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/css/animations.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/css/editor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/icons/background2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/icons/background_gold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/icons/circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/icons/cross.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/icons/folder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/icons/square.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/icons/square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/icons/triangle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/octop1/js/epic-ui-editor.js" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1891650316">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".name" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/.name">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Romanov-Maxim-traineeship.github.io.iml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Romanov-Maxim-traineeship.github.io.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Yandex_Translate/yandex_translate.gemspec">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -78,24 +77,1105 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/layout_ONE/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ansi-colors/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ansi-cyan/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ansi-gray/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ansi-red/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ansi-wrap/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/anymatch/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/archy/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/arr-union/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/array-differ/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/array-each/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/array-find-index/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/array-slice/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/array-union/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/assign-symbols/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/async-each-series/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/async-each/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/async-foreach/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/atob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/axios/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/backo2/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/base/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/base/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/base/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/base/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/base/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/base64id/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/batch/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/beeper/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/binary-extensions/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/block-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/braces/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/browser-sync-client/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/browser-sync-ui/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/browser-sync/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/grunt.html.injection/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/grunt.sass.autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/grunt.sass/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/gulp.browserify/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/gulp.pug/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/gulp.ruby.sass/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/gulp.sass/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/gulp.swig/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/gulp.task.sequence/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/html.injection/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/middleware.css.injection/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/proxy.custom-css/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/server.gzipped.assets/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/server.includes/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/server.middleware/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/server/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/webpack.babel/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/webpack.monkey-hot-loader/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/webpack.preact-hot-loader/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/webpack.react-hot-loader/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/webpack.react-transform-hmr/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/webpack.typescript.react/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-recipes/recipes/webpack.typescript/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bs-snippet-injector/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/builtin-modules/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/cache-base/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/camelcase-keys/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/camelcase-keys/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/caniuse-lite/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/class-utils/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/class-utils/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/clone-buffer/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/clone-stats/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/cloneable-readable/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/collection-visit/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/color-support/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/component-bind/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/component-inherit/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/connect-history-api-fallback/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/connect/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/connect/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/convert-source-map/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/copy-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/cross-spawn/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/css/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/css/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/currently-unhandled/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/dateformat/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/decode-uri-component/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/defaults/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/define-property/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/define-property/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/define-property/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/deprecated/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/detect-file/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/dev-ip/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/duplexer/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/duplexer2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/duplexer2/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/duplexer2/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/duplexer2/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/easy-extender/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/eazy-logger/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/electron-to-chromium/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/engine.io-client/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/engine.io/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/error-ex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/eventemitter3/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/expand-brackets/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/expand-brackets/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/expand-brackets/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/expand-range/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/expand-range/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/expand-range/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/expand-range/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/expand-range/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/expand-range/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/expand-tilde/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/extend-shallow/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/extglob/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/extglob/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/extglob/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/extglob/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/extglob/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/fancy-log/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/filename-regex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/fill-range/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/finalhandler/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/find-index/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/findup-sync/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/findup-sync/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/findup-sync/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/fined/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/first-chunk-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/flagged-respawn/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/follow-redirects/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/for-own/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/fragment-cache/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/fs-extra/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/fstream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ftp-response-parser/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ftp-response-parser/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ftp-response-parser/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ftp-response-parser/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gauge/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gaze/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/get-caller-file/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/get-imports/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/get-stdin/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/get-value/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glob-base/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glob-base/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glob-base/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glob-base/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glob-parent/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glob-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glob-stream/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glob-stream/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glob-stream/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glob-stream/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glob-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glob-watcher/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glob/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glob2base/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/global-modules/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/global-prefix/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/globby/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/globule/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/globule/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/globule/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/globule/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/globule/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/globule/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/glogg/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-concat-css/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-concat-css/node_modules/arr-union/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-concat-css/node_modules/array-slice/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-concat-css/node_modules/clone-stats/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-concat-css/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-concat-css/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-concat-css/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-concat-css/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-concat-css/node_modules/plugin-error/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-concat-css/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-concat-css/node_modules/replace-ext/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-concat-css/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-concat-css/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-concat-css/node_modules/vinyl/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-concat-css/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-ftp/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-ftp/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-sass/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-sass/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-sass/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-sass/node_modules/replace-ext/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-sass/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-sass/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-sass/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp-util/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulp/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/gulplog/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/has-binary2/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/has-gulplog/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/has-values/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/homedir-polyfill/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/http-proxy/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/immutable/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/import-regex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/in-publish/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/in-publish/test/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/indent-string/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/interpret/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/invert-kv/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ip-regex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/irregular-plurals/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-arrayish/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-binary-path/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-builtin-module/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-dotfile/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-equal-shallow/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-finite/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-number-like/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-number/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-plain-object/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-posix-bracket/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-primitive/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-relative/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-unc-path/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-utf8/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-windows/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/is-wsl/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/js-base64/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/jsftp-mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/jsftp/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/jsftp/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/jsonfile/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lcid/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/liftoff/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/limiter/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/localtunnel/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/localtunnel/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/localtunnel/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash._baseassign/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash._basecopy/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash._basetostring/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash._basevalues/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash._bindcallback/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash._createassigner/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash._getnative/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash._isiterateecall/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash._reescape/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash._reevaluate/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash._reinterpolate/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash._root/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash.assign/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash.clonedeep/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash.debounce/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash.defaults/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash.escape/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash.isarguments/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash.isarray/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash.isfinite/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash.keys/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash.mergewith/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash.restparam/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash.template/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash.templatesettings/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/loud-rejection/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/make-iterator/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/map-cache/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/map-obj/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/map-visit/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/math-random/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/meow/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/meow/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/micromatch/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/micromatch/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/micromatch/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/micromatch/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/micromatch/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/micromatch/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/micromatch/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/micromatch/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/mitt/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/mixin-deep/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/mixin-deep/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/multipipe/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/nanomatch/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/natives/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/node-gyp/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/node-gyp/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/node-gyp/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/node-sass/node_modules/gaze/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/node-sass/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/node-sass/node_modules/globule/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/node-sass/node_modules/lodash.assign/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/node-sass/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/normalize-range/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/JSONStream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/agent-base/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/agentkeepalive/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/ansi-align/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/ansicolors/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/ansistyles/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/archy/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/bin-links/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/block-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/boxen/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/buffer-from/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/builtin-modules/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/builtins/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/byline/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/byte-size/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/cacache/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/call-limit/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/capture-stack-trace/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/chownr/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/ci-info/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/cidr-regex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/cli-boxes/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/cli-columns/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/cli-table3/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/cliui/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/cliui/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/cmd-shim/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/columnify/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/concat-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/config-chain/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/configstore/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/copy-concurrently/node_modules/iferr/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/copy-concurrently/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/create-error-class/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/crypto-random-string/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/cyclist/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/debuglog/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/decode-uri-component/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/defaults/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/detect-indent/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/detect-newline/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/dezalgo/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/dot-prop/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/dotenv/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/duplexer3/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/duplexify/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/editor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/encoding/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/err-code/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/errno/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/es6-promise/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/es6-promisify/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/figgy-pudding/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/find-npm-prefix/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/flush-write-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/from2/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/fs-minipass/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/fs-vacuum/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/fs-write-stream-atomic/node_modules/iferr/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/fs-write-stream-atomic/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/fstream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/gauge/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/genfun/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/gentle-fs/node_modules/iferr/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/gentle-fs/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/get-caller-file/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/global-dirs/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/got/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/http-cache-semantics/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/http-proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/https-proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/humanize-ms/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/iferr/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/ignore-walk/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/import-lazy/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/imurmurhash/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/init-package-json/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/invert-kv/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/ip-regex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/ip/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/is-builtin-module/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/is-ci/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/is-cidr/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/is-installed-globally/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/is-npm/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/is-obj/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/is-path-inside/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/is-redirect/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/is-retry-allowed/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/json-parse-better-errors/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/jsonparse/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/latest-version/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lazy-property/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lcid/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/libcipm/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/libnpmhook/node_modules/npm-registry-fetch/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/libnpmhook/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/libnpx/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lock-verify/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lockfile/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lodash._baseindexof/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lodash._baseuniq/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lodash._bindcallback/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lodash._cacheindexof/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lodash._createcache/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lodash._createset/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lodash._getnative/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lodash._root/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lodash.clonedeep/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lodash.restparam/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lodash.union/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lodash.uniq/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lodash.without/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lowercase-keys/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/make-dir/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/make-fetch-happen/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/meant/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/mem/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/mimic-fn/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/minipass/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/minipass/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/minizlib/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/mississippi/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/move-concurrently/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/mute-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/node-fetch-npm/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/node-gyp/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/node-gyp/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/node-gyp/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/node-gyp/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-audit-report/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-bundled/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-cache-filename/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-install-checks/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-lifecycle/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-logical-tree/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-package-arg/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-packlist/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-pick-manifest/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-profile/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-registry-client/node_modules/retry/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-registry-client/node_modules/ssri/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-registry-client/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-registry-fetch/node_modules/cacache/node_modules/mississippi/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-registry-fetch/node_modules/cacache/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-registry-fetch/node_modules/figgy-pudding/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-registry-fetch/node_modules/make-fetch-happen/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-registry-fetch/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-registry-fetch/node_modules/smart-buffer/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-registry-fetch/node_modules/socks-proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-registry-fetch/node_modules/socks/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-registry-fetch/node_modules/ssri/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-registry-fetch/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-run-path/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npm-user-validate/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/opener/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/p-finally/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/package-json/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/pacote/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/parallel-transform/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/path-is-inside/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/path-key/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/prepend-http/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/promise-inflight/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/promise-retry/node_modules/retry/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/promise-retry/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/promzard/example/npm-init/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/promzard/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/proto-list/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/protoduck/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/prr/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/psl/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/pumpify/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/pumpify/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/qrcode-terminal/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/query-string/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/qw/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/rc/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/read-cmd-shim/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/read-installed/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/read-installed/test/fixtures/extraneous-detected/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/read-installed/test/fixtures/extraneous-dev-dep/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/read-installed/test/fixtures/grandparent-peer-dev/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/read-installed/test/fixtures/grandparent-peer/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/read-installed/test/fixtures/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/read-package-json/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/read-package-tree/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/read/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/readdir-scoped-modules/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/registry-auth-token/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/registry-url/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/require-directory/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/require-main-filename/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/retry/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/run-queue/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/semver-diff/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/sha/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/shebang-command/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/shebang-regex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/slash/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/slide/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/smart-buffer/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/socks-proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/socks/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/sorted-object/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/sorted-union-stream/node_modules/from2/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/sorted-union-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/sorted-union-stream/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/sorted-union-stream/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/sorted-union-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/spdx-correct/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/spdx-exceptions/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/spdx-expression-parse/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/spdx-license-ids/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/ssri/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/stream-each/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/stream-iterate/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/stream-shift/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/strict-uri-encode/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/string-width/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/string-width/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/string-width/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/stringify-package/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/strip-eof/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/tar/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/term-size/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/text-table/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/through/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/timed-out/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/tiny-relative-date/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/typedarray/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/uid-number/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/umask/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/unique-filename/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/unique-slug/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/unique-string/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/unzip-response/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/update-notifier/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/url-parse-lax/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/util-extend/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/validate-npm-package-name/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/wcwidth/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/wide-align/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/widest-line/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/worker-farm/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/wrap-ansi/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/wrap-ansi/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/write-file-atomic/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/xdg-basedir/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/yargs/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npm/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/num2fraction/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/object-component/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/object-copy/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/object-copy/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/object-copy/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/object-path/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/object-visit/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/object.defaults/node_modules/for-own/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/object.defaults/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/object.map/node_modules/for-own/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/object.map/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/object.omit/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/object.pick/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/openurl/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/opn/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/orchestrator/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ordered-read-streams/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/parents/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/parse-filepath/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/parse-glob/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/parse-glob/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/parse-glob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/parse-import/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/parse-json/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/parse-listing/_site/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/parse-listing/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/parse-passwd/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/pascalcase/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/path-dirname/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/path-parse/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/path-platform/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/path-root-regex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/path-root/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/plugin-error/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/plur/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/portscanner/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/posix-character-classes/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/postcss-value-parser/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/postcss/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/postcss/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/postcss/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/postcss/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/preserve/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/pretty-hrtime/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/psl/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/randomatic/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/randomatic/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/readable-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/readdirp/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/readdirp/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/rechoir/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/redent/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/regex-cache/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/regex-not/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/repeating/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/replace-ext/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/request/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/require-directory/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/require-main-filename/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/requires-port/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/resolve-dir/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/resolve-url/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/resolve/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/resolve/test/resolver/browser_field/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/resolve/test/resolver/dot_main/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/resolve/test/resolver/dot_slash_main/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/resp-modifier/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/resp-modifier/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ret/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/rework-import/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/rework-plugin-function/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/rework-plugin-url/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/rework-visit/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/rework/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/rimraf/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/rx/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/rxjs/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/safe-regex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/sass-graph/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/sass-graph/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/sass-graph/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/sass-graph/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/scss-tokenizer/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/scss-tokenizer/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/sequencify/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/serve-index/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/serve-index/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/server-destroy/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/set-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/sigmund/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/snapdragon-node/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/snapdragon-node/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/snapdragon-node/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/snapdragon-node/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/snapdragon-node/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/snapdragon-util/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/snapdragon-util/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/snapdragon/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/snapdragon/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/snapdragon/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/snapdragon/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/socket.io-adapter/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/socket.io-client/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/socket.io/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/source-map-resolve/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/source-map-url/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/sparkles/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/spdx-correct/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/spdx-exceptions/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/spdx-expression-parse/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/spdx-license-ids/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/split-string/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/static-extend/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/static-extend/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/stdout-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/stream-combiner/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/stream-consume/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/stream-throttle/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/strip-indent/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/symbol-observable/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/tfunk/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/through/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/tildify/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/time-stamp/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/to-array/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/to-object-path/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/to-object-path/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/to-regex-range/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/to-regex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/trim-newlines/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/true-case-path/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/true-case-path/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ua-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/unc-path-regex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/union-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/union-value/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/union-value/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/unique-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/universalify/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/unorm/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/unset-value/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/unset-value/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/unset-value/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/unset-value/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/upath/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/urix/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/url-regex/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/use/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/user-home/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/v8flags/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/vinyl-fs/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/vinyl-fs/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/vinyl-fs/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/vinyl-fs/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/vinyl-fs/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/vinyl-fs/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/vinyl-fs/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/vinyl-fs/node_modules/vinyl/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/vinyl-fs/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/vinyl-sourcemaps-apply/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/vinyl/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/wrap-ansi/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/node_modules/yeast/package.json" />
+      <path value="$PROJECT_DIR$/layout_ONE/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-6" />
     <option name="y" value="1" />
     <option name="width" value="1932" />
     <option name="height" value="1045" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
+    <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
-      <sortByType />
-      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -109,7 +1189,7 @@
             <path>
               <item name="Baskino_ACCENTURE" type="b2602c69:ProjectViewProjectNode" />
               <item name="Romanov-Maxim-traineeship.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="Yandex_Translate" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -118,13 +1198,13 @@
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Yandex_Translate" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -221,9 +1301,6 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -236,41 +1313,44 @@
       <updated>1540640694726</updated>
       <workItem from="1540640698188" duration="93000" />
       <workItem from="1540641086121" duration="51000" />
+      <workItem from="1542114084194" duration="106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144000" />
+    <option name="totallyTimeSpent" value="250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="1" width="1932" height="1045" extended-state="0" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25267094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553419" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,82 +1359,28 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/.name">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-          <folding />
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/.name">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Romanov-Maxim-traineeship.github.io.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Yandex_Translate/yandex_translate.gemspec">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
