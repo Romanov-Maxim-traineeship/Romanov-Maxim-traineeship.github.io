@@ -14,7 +14,7 @@
           if (ajax.readyState == 4) {
             if (ajax.status == 200) {
               text = JSON.parse(ajax.responseText);
-              callback(text.text[0]);
+              document.getElementById(id).innerHTML = text.text[0];
             }
           }
         }
@@ -39,14 +39,6 @@
         //-----------
       },
 
-      revert : function (id) {
-
-      }
-
 
       
     }
-
-    log = function (text){
-        console.log(text);
-      }
