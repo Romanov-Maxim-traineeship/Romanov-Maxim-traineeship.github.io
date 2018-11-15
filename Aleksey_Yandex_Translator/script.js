@@ -1,5 +1,4 @@
  var yandex_translator = {
-      lines : {},
       key : 'trnsl.1.1.20181113T124855Z.265a3dbb4ed09a6b.898310b6c4a33ca9d35f5d9c39561a578b93a8b3',
       api : 'https://translate.yandex.net/api/v1.5/tr.json/translate',
 
