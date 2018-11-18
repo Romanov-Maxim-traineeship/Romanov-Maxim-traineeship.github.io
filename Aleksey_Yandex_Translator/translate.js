@@ -15,6 +15,7 @@
             if (ajax.status == 200) {
               text = JSON.parse(ajax.responseText);
               document.getElementById(id).innerHTML = text.text[0];
+              console.log(url);
             }
           }
         }
