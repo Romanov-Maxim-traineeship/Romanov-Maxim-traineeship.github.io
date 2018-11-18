@@ -1,8 +1,8 @@
 require 'net/http'
 require 'json'
-require_relative 'lib/get_langs'
-require_relative 'lib/definition'
-require_relative 'lib/translate'
+require_relative 'translator/get_langs'
+require_relative 'translator/definition'
+require_relative 'translator/translate'
 
 
 module Yandex
