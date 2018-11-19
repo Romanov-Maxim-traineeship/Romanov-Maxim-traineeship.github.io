@@ -1,9 +1,8 @@
 require 'net/http'
 require 'json'
-require_relative 'translator/version'
-require_relative 'translator/get_langs'
-require_relative 'translator/definition'
-require_relative 'translator/translate'
+require_relative 'yandex/get_langs'
+require_relative 'yandex/definition'
+require_relative 'yandex/translate'
 
 module Yandex
   class Error < StandardError; end
