@@ -19,6 +19,8 @@ module Yandex
       JSON.parse(response)
     end
 
-    puts Translate.translate('my cup is broken', 'ru')
+    puts Translate.translate('hola', 'en')
+
+    puts Definition.definition('hola como estas bastardo')
   end
 end
